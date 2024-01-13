@@ -106,7 +106,7 @@ export default function Header() {
         display: block;
         position: absolute;
         width: 40%;
-        height: 40%;
+        height: 50%;
         top: 0;
         right: 0%;
         background:  rgb(2 6 23);
